@@ -1,3 +1,3 @@
 # Nvidia-Stock-Prediction
 
-I will add the walkthrough part later.
+I will finish the walkthrough part little later.
